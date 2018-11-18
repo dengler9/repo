@@ -1,8 +1,8 @@
-Origin: tabby
-Label: tabby
+Origin: Tabby
+Label: Cat
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: tabby
+Description: Tabby's Repo
